@@ -1,3 +1,3 @@
-module github.com/GO_EXAMPLE_1
+module github.com/godarksystem
 
 go 1.18

@@ -6,6 +6,8 @@ package main
 
 import (
 	"fmt"
+
+	"github.com/godarksystem/collections"
 )
 
 /*
@@ -17,7 +19,8 @@ func main() {
 	fmt.Println("Olá Mundo")
 	fmt.Println("Hola Mundo")
 
-	DataTypes.main_Apontadores()
+	collections.Arrays()
+
 }
 
 //Ola mundo

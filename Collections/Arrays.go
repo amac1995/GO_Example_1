@@ -6,7 +6,7 @@ import (
 	"fmt"
 )
 
-func main_arrays() {
+func Arrays() {
 	// Duas maneiras diferentes de declarar um array
 	var arr [3]int
 	arr[0] = 1
