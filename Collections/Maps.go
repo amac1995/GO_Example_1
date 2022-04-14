@@ -1,6 +1,6 @@
 //Maps
 
-package Collections
+package collections
 
 import (
 	"fmt"

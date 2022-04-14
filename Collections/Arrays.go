@@ -1,6 +1,6 @@
 //Arrays
 
-package Collections
+package collections
 
 import (
 	"fmt"

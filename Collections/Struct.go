@@ -1,6 +1,6 @@
 //Struct
 
-package Collections
+package collections
 
 import (
 	"fmt"

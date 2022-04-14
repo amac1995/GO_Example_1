@@ -1,24 +1,17 @@
-//Conceitos de Iota e Expressoes Constantes
-
-package Data_Types
+/*
+Constantes - Funcionam da mesma forma que as variaveis,
+a diferenca é que as constantes nao podem alterar
+o seu valor e as variaveis podem.
+*/
+package datatypes
 
 import (
 	"fmt"
 )
 
-//const pi = 3.1415 //Esta constante pode ser acessada em todo o pacote
-
-const (
-	first  = 1
-	second = "second"
-	//Third  = Iota
-	//Fourth = Iota
-	//Fifth  = Iota
-)
-
-func main_Iota() {
-
-	fmt.Println(first, second)
+func main_Constantes() {
+	const pi = 3.1415
+	fmt.Println(pi)
 	//p1 = 1.2 //Irá dar erro devido a ser uma constante
 
 	//const c int = 3 Apenas para inteiros (Valores com float nao retornava)

@@ -1,6 +1,6 @@
 //Slices
 
-package Collections
+package collections
 
 import (
 	"fmt"

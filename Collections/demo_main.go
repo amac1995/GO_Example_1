@@ -1,6 +1,6 @@
 //Demonstraçao
 
-package Collections
+package collections
 
 import (
 	"fmt"
@@ -8,10 +8,10 @@ import (
 
 func main_demo_main() {
 
-	U := User{
+	u := user{
 		ID:        2,
 		FirstName: "Tricia",
 		LastName:  "McMillan",
 	}
-	fmt.Println(U)
+	fmt.Println(u)
 }

@@ -1,12 +1,12 @@
-package Collections
+package collections
 
-type User struct {
+type user struct {
 	ID        int
 	FirstName string
 	LastName  string
 }
 
 var (
-	users  []*User
+	users  []*user
 	nextID = 1
 )

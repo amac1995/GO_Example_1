@@ -1,5 +1,5 @@
 //Declaracao de variaveis com as suas primitivas
-package Data_Types
+package datatypes
 
 import (
 	"fmt"

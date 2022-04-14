@@ -12,10 +12,12 @@ import (
 Função main
 When part of the main package, identifies the entry point of an application
 */
-func ma() {
+func main() {
 	fmt.Println("Hello, playground")
 	fmt.Println("Olá Mundo")
 	fmt.Println("Hola Mundo")
+
+	DataTypes.main_Apontadores()
 }
 
 //Ola mundo
