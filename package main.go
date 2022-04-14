@@ -12,7 +12,7 @@ import (
 Função main
 When part of the main package, identifies the entry point of an application
 */
-func main() {
+func ma() {
 	fmt.Println("Hello, playground")
 	fmt.Println("Olá Mundo")
 	fmt.Println("Hola Mundo")
