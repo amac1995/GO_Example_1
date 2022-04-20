@@ -8,6 +8,7 @@ import (
 	"fmt"
 
 	"github.com/godarksystem/collections"
+	"github.com/godarksystem/functions"
 )
 
 /*
@@ -21,6 +22,8 @@ func main() {
 
 	collections.Arrays()
 	collections.Olamundo3()
+
+	functions.MainDemoWebservice()
 
 }
 
