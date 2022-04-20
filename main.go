@@ -8,7 +8,7 @@ import (
 	"fmt"
 
 	"github.com/godarksystem/collections"
-	"github.com/godarksystem/functions"
+	programscrud "github.com/godarksystem/programsCRUD"
 )
 
 /*
@@ -23,7 +23,9 @@ func main() {
 	collections.Arrays()
 	collections.Olamundo3()
 
-	functions.MainDemoWebservice()
+	//functions.MainDemoWebservice()
+
+	programscrud.InfiniteLoop()
 
 }
 
