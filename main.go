@@ -20,6 +20,7 @@ func main() {
 	fmt.Println("Hola Mundo")
 
 	collections.Arrays()
+	collections.Olamundo3()
 
 }
 
