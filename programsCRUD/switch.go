@@ -4,7 +4,7 @@ type HTTPRequest struct {
 	Method string
 }
 
-func main() {
+func MainSwitch() {
 	r := HTTPRequest{Method: "GET"}
 
 	switch r.Method {
