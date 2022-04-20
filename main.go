@@ -25,7 +25,8 @@ func main() {
 
 	//functions.MainDemoWebservice()
 
-	programscrud.InfiniteLoop()
+	//programscrud.LoopOverCollections()
+	programscrud.MainPanicFunc()
 
 }
 

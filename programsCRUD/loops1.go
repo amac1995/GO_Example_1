@@ -32,3 +32,11 @@ func InfiniteLoop() {
 		i++
 	}
 }
+
+func LoopOverCollections() {
+	wellKnownPorts := map[string]int{"http": 80, "https": 443}
+
+	for _, v := range wellKnownPorts {
+		println(v)
+	}
+}
